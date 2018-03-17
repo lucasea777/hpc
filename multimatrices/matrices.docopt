@@ -1,0 +1,11 @@
+Ejemplo de matrices
+
+Usage:
+  matrices [--conblas] [--c0] [--help] [--version]
+
+Options:
+  -h --help     Show this screen.
+  --version     Show version.
+  --conblas     Utilizando OpenBLAS
+  --c0          Muestra el resultado final de c[0] (esquina superior izq de la matriz).
+  
